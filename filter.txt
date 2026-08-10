@@ -1,6 +1,6 @@
 ! Title: AI 블로그 구글 차단
 ! Description: 구글 검색 결과에서 AI로 만든 쓰레기 티스토리, 네이버 블로그 등을 차단한다.
-! Version: 1.0
+! Version: 1.1
 
 google.com,google.co.kr##div.MjjYud:has(a[href*="www.babyhit.sk"])
 google.com,google.co.kr##div.MjjYud:has(a[href*=".hu/"])
