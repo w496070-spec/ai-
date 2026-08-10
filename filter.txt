@@ -1,19 +1,9 @@
 ! Title: AI 블로그 구글 차단
 ! Description: 구글 검색 결과에서 AI로 만든 쓰레기 티스토리, 네이버 블로그 등을 차단한다.
-! Version: 1.1.1
+! Version: 1.1.2
 
-google.com,google.co.kr##div.MjjYud:has(a[href*="www.babyhit.sk"])
-google.com,google.co.kr##div.MjjYud:has(a[href*=".hu/"])
-google.com,google.co.kr##div.MjjYud:has(a[href*="www.scribd.edu.pl"])
-google.com,google.co.kr##div.MjjYud:has(a[href*="wiisnt.co.kr"])
-google.com,google.co.kr##div.MjjYud:has(a[href*=".autokinija.lt"])
-google.com,google.co.kr##div.MjjYud:has(a[href*=".ec-albertino.com.pt"])
-google.com,google.co.kr##div.MjjYud:has(a[href*=".crushcafe.es"])
-google.com,google.co.kr##div.MjjYud:has(a[href*=".dorolandstore.pt"])
-google.com,google.co.kr##div.MjjYud:has(a[href*=".qvmdth.bar"])
-google.com,google.co.kr##div.MjjYud:has(a[href*=".isoladelmassaggioolistico.it"])
 google.com,google.co.kr##div.MjjYud:has(a[href*="en.namu.wiki"])
-google.com,google.co.kr##div.MjjYud:has(a[href*=".revolution2025.it"])
+google.com,google.co.kr##div.MjjYud:has(a[href*="kin.naver.com"])
 google.com,google.co.kr##div.MjjYud:has(a[href*="vivia2020.tistory.com"])
 google.com,google.co.kr##div.MjjYud:has(a[href*="zakkom.tistory.com"])
 google.com,google.co.kr##div.MjjYud:has(a[href*="juding.tistory.com"])
@@ -38,7 +28,6 @@ google.com,google.co.kr##div.MjjYud:has(a[href*="moneypic.tistory.com"])
 google.com,google.co.kr##div.MjjYud:has(a[href*="marujjing.tistory.com"])
 google.com,google.co.kr##div.MjjYud:has(a[href*="finbuddy.tistory.com"])
 google.com,google.co.kr##div.MjjYud:has(a[href*="naver.com/fromherein"])
-google.com,google.co.kr##div.MjjYud:has(a[href*="kin.naver.com"])
 google.com,google.co.kr##div.MjjYud:has(a[href*="blog.naver.com/darwin007"])
 google.com,google.co.kr##div.MjjYud:has(a[href*="brunch.co.kr/@noderesearch"])
 google.com,google.co.kr##div.MjjYud:has(a[href*="dream-planner.tistory.com"])
