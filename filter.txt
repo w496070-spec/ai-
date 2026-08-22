@@ -1,6 +1,6 @@
 ! Title: AI 블로그 구글 차단
 ! Description: AI로 만든 쓰레기 양산형 티스토리, 네이버 블로그 등을 구글 검색 결과에서 차단한다.
-! Version: 1.2.2
+! Version: 1.2.3
 
 google.com,google.co.kr##div.MjjYud:has(a[href*="en.namu.wiki"])
 google.com,google.co.kr##div.MjjYud:has(a[href*="kin.naver.com"])
@@ -565,3 +565,4 @@ google.com,google.co.kr##div.MjjYud:has(a[href*="mynote8720.tistory.com"])
 google.com,google.co.kr##div.MjjYud:has(a[href*="view5706.tistory.com"])
 google.com,google.co.kr##div.MjjYud:has(a[href*="gureugi.tistory.com"])
 google.com,google.co.kr##div.MjjYud:has(a[href*="hestia7.tistory.com"])
+google.com,google.co.kr##div.MjjYud:has(a[href*="blog.naver.com/kjrmilk"])
