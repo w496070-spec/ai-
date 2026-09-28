@@ -1,6 +1,6 @@
 ! Title: AI Slop 블로그 구글 차단
-! Description: AI로 만든 쓰레기 양산형 티스토리, 네이버 블로그 등을 구글 검색 결과에서 차단한다.
-! Version: 1.2.7
+! Description: AI로 만든 쓰레기 양산형 티스토리, 네이버 블로그 등을 구글, 네이버 검색 결과에서 차단한다.
+! Version: 1.2.8
 
 google.com,google.co.kr##div.MjjYud:has(a[href*="vivia2020.tistory.com"])
 google.com,google.co.kr##div.MjjYud:has(a[href*="zakkom.tistory.com"])
@@ -907,3 +907,8 @@ search.naver.com##div:has(> [data-template-id="ugcItem"] a[href*="blog.naver.com
 search.naver.com##div:has(> [data-template-id="ugcItem"] a[href*="blog.naver.com/site_visit/"])
 search.naver.com##div:has(> [data-template-id="ugcItem"] a[href*="blog.naver.com/profit1941/"])
 search.naver.com##div:has(> [data-template-id="ugcItem"] a[href*="blog.naver.com/mozzi4857/"])
+search.naver.com##div:has(> [data-template-id="ugcItem"] a[href*="blog.naver.com/sara_jjjjj/"])
+search.naver.com##div:has(> [data-template-id="ugcItem"] a[href*="blog.naver.com/kgusle2/"])
+search.naver.com##div:has(> [data-template-id="ugcItem"] a[href*="blog.naver.com/jasuk1/"])
+search.naver.com##div:has(> [data-template-id="ugcItem"] a[href*="blog.naver.com/beautifuyworld/"])
+search.naver.com##div:has(> [data-template-id="ugcItem"] a[href*="blog.naver.com/eatsight/"])
